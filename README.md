@@ -8,7 +8,7 @@ Omnom - the eater of APIs
 
 Consumes REST APIs - initially those conforming to the DAHL runtime specification.
 
-Clojurescript and Clojure powered.
+Clojurescript and Clojure and optionally electron powered.
 
 
 ## Running it
