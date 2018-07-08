@@ -25,6 +25,16 @@ lein cooper # compile cljs, start figwheel
 
 ### Client
 
+Two options:
+
+#### Browser
+
+```
+http://localhost:3449/
+```
+
+#### Electron
+
 Navigate to root of project
 
 ```
