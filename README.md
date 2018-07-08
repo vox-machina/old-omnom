@@ -1,8 +1,15 @@
-# Omnom - The Eater of APIs
+# Omnom
+
+Omnom - the eater of APIs
+
+![Alt Text](https://media.giphy.com/media/jgUG5cnss7T9K/giphy.gif)
+
+## Overview
 
 Consumes REST APIs - initially those conforming to the DAHL runtime specification.
 
 Clojurescript and Clojure powered.
+
 
 ## Running it
 
