@@ -1,4 +1,6 @@
-# Omnom
+# DEPRECATED - Omnom
+
+**Update: This project is deprecated. Omnom is now a different project with different aims.**
 
 Omnom - the eater of APIs
 
